@@ -1,4 +1,6 @@
-#QuestObjectiveHider
+# QuestObjectiveHider
+
+![Logo](https://github.com/tomchapin/quest-objective-hider/blob/main/logo/quest-objective-hider.jpg?raw=true)
 
 Do you use an alternate quest tracker addon (such as Zygor Guides or RestedXP) and hate how you have to keep minimizing the default WoW quest/objective tracker every time you reload the UI?
 

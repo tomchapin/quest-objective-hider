@@ -1,0 +1,1 @@
+WatchFrame:Hide()

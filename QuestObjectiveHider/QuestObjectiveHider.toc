@@ -1,0 +1,11 @@
+## Interface: 30000
+## Title: QuestObjectiveHider
+## SavedVariablesPerCharacter: QuestObjectiveHider
+## Notes: Hides the Quest / Achievement Objective Tracker frame, and that's all it does.
+## Author: tombstone83
+## Version: 1.0.0
+## X-Curse-Packaged-Version: 1.0.0
+## X-Curse-Project-Name: Quest Objective Hider
+## X-Curse-Project-ID: questobjectivehider
+## X-Curse-Repository-ID: wow/questobjectivehider/mainline
+QuestObjectiveHider.lua
